@@ -1,4 +1,4 @@
-# Project 4 : Simple Linear Regression
+# Project : Simple Linear Regression
 # Author : Kritika 
 # Simple Linear Regression on Housing Prices
 
